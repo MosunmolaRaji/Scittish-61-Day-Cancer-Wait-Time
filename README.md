@@ -13,10 +13,24 @@ The Cancer Wait Time - 62 Day Standard data set was downloaded as a CSV file and
 # Data Cleaning and Transformation
 The Get Data function from the Data Tab in Excel was used to load the data sets into Power Query Editor for profiling, cleaning, and transformation. Power query editor is a powerful tool in some Microsoft packages including Excel that is useful in connecting different data sources and transforming them to meet analysis and analytics needs. Data profiling involves understanding the data set by studying fields and the data types. The cleaning and transformation involve manipulating and preparing the data for analysis while preserving the quality of the data. The step is important to ensure the data is right for meaningful insights to be derived from it.
 ![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/3f40b2dd-1ada-439f-87b3-60305a51f22c)
+
 ![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/6835a0f2-ee65-4237-b9c4-0c9df6aeed8e)
+
 ![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/ce9f64a8-b7cc-4706-b89d-5d42986d750b)
+
 ![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/ded47d49-b59f-4184-a094-685f87e34758)
+
 ![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/89f0b095-6354-4927-88d3-a543c0b67a2e)
+
+# Data Modelling
+The transformed data was loaded into a data model and a relationship was established between them in Excel’s Power Pivot. Power pivot is a powerful modelling technology that enables data model creation, relationship establishment and calculations within data tables.
+
+![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/d88f9930-6de4-417c-bcea-7aaa8deabb2f)
+
+# Data Analysis and Insights
+A pivot table was inserted with the data model.  A Pivot Table is a powerful tool for calculating, summarizing, and analysing data in Excel. It allows for easy identification of comparisons, patterns, and trends, leading to data-driven insights. After a pivot table had been generated, pivot charts and other Excel recommended charts were derived to gain insight into the data sets.
+
+![image](https://github.com/MosunmolaRaji/Scottish-61-Day-Cancer-Wait-Time-Analysis/assets/138968251/84dcb57a-b441-4f27-9284-ed406a316c1d)
 
 
 
